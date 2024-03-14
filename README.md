@@ -8,3 +8,5 @@
 
 <!---
 Hugobosscastillo/Hugobosscastillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pro
+ejecutar recuperación de cuenta gmail 
+comprobación con patron de dispositivo 
